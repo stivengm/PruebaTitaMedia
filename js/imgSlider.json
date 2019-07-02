@@ -1,0 +1,16 @@
+{
+	"urlImages": [
+		{
+			"nameImg": "img1",
+			"img": "./assets/image-big.png"
+		},
+		{
+			"nameImg": "img2",
+			"img": "./assets/image-big2.png"
+		},
+		{
+			"nameImg": "img3",
+			"img": "./assets/image-big3.jpg"
+		}
+	]
+}
